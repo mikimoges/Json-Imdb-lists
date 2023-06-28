@@ -1,0 +1,78 @@
+{
+  "items": [
+    {
+      "id": "tt0903747",
+      "rank": "1",
+      "rankUpDown": "-8",
+      "title": "Breaking Bad",
+      "fullTitle": "Breaking Bad (2008)",
+      "year": "2008",
+      "image": "https://m.media-amazon.com/images/M/MV5BYmQ4YWMxYjUtNjZmYi00MDQ1LWFjMjMtNjA5ZDdiYjdiODU5XkEyXkFqcGdeQXVyMTMzNDExODE5._V1_Ratio0.6716_AL_.jpg",
+      "crew": "Bryan Cranston, Aaron Paul",
+      "imDbRating": "9.5",
+      "imDbRatingCount": "1992244"
+    },
+    {
+      "id": "tt0411008",
+      "rank": "2",
+      "rankUpDown": "+5",
+      "title": "Lost",
+      "fullTitle": "Lost (2004)",
+      "year": "2004",
+      "image": "https://m.media-amazon.com/images/M/MV5BNzhlY2E5NDUtYjJjYy00ODg3LWFkZWQtYTVmMzU4ZWZmOWJkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
+      "crew": "Jorge Garcia, Josh Holloway",
+      "imDbRating": "8.3",
+      "imDbRatingCount": "570343"
+    },
+    {
+      "id": "tt1064899",
+      "rank": "3",
+      "rankUpDown": "+5",
+      "title": "Queen of the South",
+      "fullTitle": "Queen of the South (2016–2021)",
+      "year": "2016–2021",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjE2Y2Y2OWUtYWRkMC00MWYxLWE2OTItM2VmYjY4ZGI1MzIxXkEyXkFqcGdeQXVyMTAzNzQ5NDA0._V1_Ratio1.6757_AL_.jpg",
+      "crew": "Jorge Garcia, Josh Holloway",
+      "imDbRating": "8.0",
+      "imDbRatingCount": "570343"
+    },
+    {
+      "id": "tt2661044",
+      "rank": "4",
+      "image": "https://m.media-amazon.com/images/M/MV5BNjRiYTIzZmUtMTFkNS00ZTM0LWE4ODAtMDliMGE4NzM5ZjVlXkEyXkFqcGdeQXVyNDQ0MTYzMDA@._V1_Ratio0.8108_AL_.jpg",
+      "title": "The 100",
+      "fullTitle": "The 100 (2014–2020)",
+      "description": "2014–2020 TV Series Eliza Taylor, Bob Morley",
+      "imDbRating": "7.6"
+    },
+    {
+      "id": "tt1830617",
+      "rank": "5",
+      "image": "https://m.media-amazon.com/images/M/MV5BMTkyODg2MzQwMV5BMl5BanBnXkFtZTgwNTA2MjE1MDI@._V1_Ratio0.6757_AL_.jpg",
+      "title": "Grimm",
+      "fullTitle": "Grimm (2011–2017)",
+      "description": "2011–2017 TV Series David Giuntoli, Russell Hornsby",
+      "imDbRating": "7.9"
+    },
+    {
+      "id": "tt8111088",
+      "rank": "73",
+      "rankUpDown": "-9",
+      "title": "The Mandalorian",
+      "fullTitle": "The Mandalorian (2019)",
+      "year": "2019",
+      "image": "https://m.media-amazon.com/images/M/MV5BN2M5YWFjN2YtYzU2YS00NzBlLTgwZWUtYWQzNWFhNDkyYjg3XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+      "crew": "Pedro Pascal, Chris Bartlett",
+      "imDbRating": "8.7",
+      "imDbRatingCount": "549411"
+    },
+    {
+      "id": "tt1199099",
+      "image": "https://m.media-amazon.com/images/M/MV5BZTBjYjM3ZjItZTI1MS00ODZhLWFhZDgtODgxMmMzN2JlOTExXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.7027_AL_.jpg",
+      "title": "Merlin",
+      "fullTitle": "Merlin (2008-2012)",
+      "imDbRating": "7.9",
+      "description": "2008–2012 TV Series John Hurt, Colin Morgan"
+    }
+  ]
+}
