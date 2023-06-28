@@ -1,0 +1,710 @@
+{
+  "imDbId": "nm0000154",
+  "name": "Mel Gibson",
+  "description": "44 wins & 43 nominations",
+  "items": [
+    {
+      "eventTitle": "Academy Awards, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Nominee Oscar",
+          "for": "Best Achievement in Directing",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Winner Oscar",
+          "for": "Best Picture",
+          "description": "Braveheart"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Winner Oscar",
+          "for": "Best Director",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "BAFTA Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2007 Nominee BAFTA Film Award",
+          "for": "Best Film not in the English Language",
+          "description": "Apocalypto"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Nominee David Lean Award for Direction",
+          "for": "",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Razzie Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjhjMDBiNzYtY2M0Zi00ZDE3LTg2NzctMDU1NmYyNmUyYjNjXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_Ratio0.6757_AL_.jpg",
+          "title": "2022 Nominee Razzie Award",
+          "for": "Worst Supporting Actor",
+          "description": "Dangerous"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNDA4Nzc1OTg2OV5BMl5BanBnXkFtZTgwODE3ODgwNDI@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2018 Winner Razzie Award",
+          "for": "Worst Supporting Actor",
+          "description": "Daddy's Home 2"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Winner Redeemer Award",
+          "for": "",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BODU5ODMyMzg2MV5BMl5BanBnXkFtZTgwMTA2MTcxMjE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2015 Nominee Razzie Award",
+          "for": "Worst Supporting Actor",
+          "description": "The Expendables 3"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Academy of Science Fiction, Fantasy & Horror Films, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjE1MTk5NDQ5Ml5BMl5BanBnXkFtZTgwODUxNzg0NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2019 Nominee Saturn Award",
+          "for": "Best Actor",
+          "description": "Dragged Across Concrete"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2007 Nominee Saturn Award",
+          "for": "Best Director",
+          "description": "Apocalypto"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BN2VlNjNhZWQtMTY2OC00Y2E1LWJkNGUtMDU4M2ViNzliMGYwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1983 Nominee Saturn Award",
+          "for": "Best Actor",
+          "description": "The Road Warrior"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Satellite Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Nominee Satellite Award",
+          "for": "Best Director",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2005 Winner Golden Satellite Award",
+          "for": "Best Director",
+          "description": "The Passion of the Christ"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Golden Globes, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Nominee Golden Globe",
+          "for": "Best Director - Motion Picture",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BZjUyZWE5YmMtNDA2ZC00NzFlLTg0MzktOTgzYjA2ZWE3NmIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2001 Nominee Golden Globe",
+          "for": "Best Performance by an Actor in a Motion Picture - Comedy or Musical",
+          "description": "What Women Want"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BZTc0ZjNkYTktMmJmOS00OTJlLTg1NWUtMzQ5ZGMxM2NhY2M0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7568_AL_.jpg",
+          "title": "1997 Nominee Golden Globe",
+          "for": "Best Performance by an Actor in a Motion Picture - Drama",
+          "description": "Ransom"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Winner Golden Globe",
+          "for": "Best Director - Motion Picture",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "AACTA International Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Winner AACTA International Award",
+          "for": "Best Direction",
+          "description": "Hacksaw Ridge"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Cinema Writers Circle Awards, Spain",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Winner CEC Award",
+          "for": "Best Foreign Film (Mejor Película Extranjera)",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Winner CEC Award",
+          "for": "Best Foreign Film (Mejor Película Extranjera)",
+          "description": "Braveheart (USA. Tied with Ed Wood (1994).)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Australian Film Critics Association Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Nominee AFCA Award",
+          "for": "Best Director",
+          "description": "Hacksaw Ridge"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Film Critics Circle of Australia Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Nominee FCCA Award",
+          "for": "Best Director",
+          "description": "Hacksaw Ridge"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Christopher Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2017 Winner Christopher Award",
+          "for": "Feature Films",
+          "description": "Hacksaw Ridge"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Hollywood Film Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2016 Winner Hollywood Film Award",
+          "for": "Director of the Year",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2004 Winner Hollywood Film Award",
+          "for": "Producer of the Year",
+          "description": "The Passion of the Christ"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Critics Choice Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2016 Nominee Critics Choice Award",
+          "for": "Best Director",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Winner Critics Choice Award",
+          "for": "Best Director",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Phoenix Film Critics Society Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2016 Nominee PFCS Award",
+          "for": "Best Director",
+          "description": "Hacksaw Ridge"
+        }
+      ]
+    },
+    {
+      "eventTitle": "North Texas Film Critics Association, US",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2016 Nominee NTFCA Award",
+          "for": "Best Director",
+          "description": "Hacksaw Ridge (3rd place)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Australian Academy of Cinema and Television Arts (AACTA) Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2016 Winner AACTA Award",
+          "for": "Best Direction",
+          "description": "Hacksaw Ridge"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Capri, Hollywood",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2016 Winner Capri Director Award",
+          "for": "",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2004 Winner Capri Movie of the Year Award",
+          "for": "",
+          "description": "The Passion of the Christ (Tied with The Keys to the House (2004).)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Golden Schmoes Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2016 Nominee Golden Schmoes",
+          "for": "Best Director of the Year",
+          "description": "Hacksaw Ridge"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNDUwMDUyMDAyNF5BMl5BanBnXkFtZTYwMDQ3NzM3._V1_Ratio0.6757_AL_.jpg",
+          "title": "2002 Nominee Golden Schmoes",
+          "for": "Best Actor of the Year",
+          "description": "Signs"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Huading Award",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2016 Winner Huading Award",
+          "for": "Grand Jury Prize",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Karlovy Vary International Film Festival",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2014 Winner Special Prize for Outstanding Contribution to World Cinema",
+          "for": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "AARP Movies for Grownups Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzc0Nzc0MjA4OF5BMl5BanBnXkFtZTcwNTEyOTYxNA@@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2012 Nominee Movies for Grownups Award",
+          "for": "Best Grownup Love Story",
+          "description": "The Beaver"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzc0Nzc0MjA4OF5BMl5BanBnXkFtZTcwNTEyOTYxNA@@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2012 Nominee Movies for Grownups Award",
+          "for": "Best Actor",
+          "description": "The Beaver"
+        }
+      ]
+    },
+    {
+      "eventTitle": "CinEuphoria Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzc0Nzc0MjA4OF5BMl5BanBnXkFtZTcwNTEyOTYxNA@@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2012 Nominee CinEuphoria",
+          "for": "Best Actor - International Competition",
+          "description": "The Beaver"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Alliance of Women Film Journalists",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2011 Nominee EDA Special Mention Award",
+          "for": "Hall of Shame",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2011 Winner EDA Female Focus Award",
+          "for": "Sexist Pig Award",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2006 Winner EDA Special Mention Award",
+          "for": "Hall of Shame",
+          "description": " (In recognition of the sexism he displayed when, according to police reports, he called a female officer 'sugar tits,' during his more famously anti-Semitic rant. We wish to assure Mr. Gibson that we heard the full scope of his rage that evening- not just the Jewish part.)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Irish Film and Television Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2008 Winner Outstanding Contribution to World Cinema",
+          "for": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Golden Eagle Awards, Russia",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2008 Nominee Golden Eagle",
+          "for": "Best Foreign Film",
+          "description": "Apocalypto"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2005 Winner Golden Eagle",
+          "for": "Best Foreign Film",
+          "description": "The Passion of the Christ"
+        }
+      ]
+    },
+    {
+      "eventTitle": "International Online Cinema Awards (INOCA)",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzhmNGMzMDMtZDM0Yi00MmVmLWExYjAtZDhjZjcxZDM0MzJhXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2007 Nominee INOCA",
+          "for": "Best Non-English Language Film",
+          "description": "Apocalypto (United States)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Italian Online Movie Awards (IOMA)",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2005 Nominee IOMA",
+          "for": "Best Adapted Screenplay (Miglior sceneggiatura non originale)",
+          "description": "The Passion of the Christ"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Yoga Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2005 Winner Yoga Award",
+          "for": "Worst Foreign Film",
+          "description": "The Passion of the Christ"
+        }
+      ]
+    },
+    {
+      "eventTitle": "People's Choice Awards, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2004 Winner People's Choice Award",
+          "for": "Favorite Motion Picture Actor",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2003 Winner People's Choice Award",
+          "for": "Favorite Motion Picture Actor",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2001 Winner People's Choice Award",
+          "for": "Favorite Motion Picture Actor",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2001 Winner People's Choice Award",
+          "for": "Favorite Motion Picture Star in a Drama",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "1997 Winner People's Choice Award",
+          "for": "Favorite Motion Picture Actor",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Golden Knight Film Festival",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2004 Winner Grand Prix",
+          "for": "",
+          "description": "The Passion of the Christ"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Ischia Film Festival",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYjE2MDNhMzItNmMzNi00NzY1LWIwNTktNmE5ZWE4OTcyNjJhXkEyXkFqcGdeQXVyMjUzOTY1NTc@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2004 Winner Foreign Award",
+          "for": "Best Feature Film",
+          "description": "The Passion of the Christ"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Fangoria Chainsaw Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNDUwMDUyMDAyNF5BMl5BanBnXkFtZTYwMDQ3NzM3._V1_Ratio0.6757_AL_.jpg",
+          "title": "2003 Nominee Chainsaw Award",
+          "for": "Best Actor",
+          "description": "Signs"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Australian Film Institute",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "2002 Winner Global Achievement Award",
+          "for": "",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNmE3MjM4MGMtYmZiMi00MzU4LTk1YWMtMjI1YmRmNDc2MjdlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1983 Nominee AFI Award",
+          "for": "Best Actor in a Lead Role",
+          "description": "The Year of Living Dangerously"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNjQ2MDg4ZDUtNTA0Ny00Nzc3LWFmM2UtY2I0YWRjNjZkMTg0XkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_Ratio0.6757_AL_.jpg",
+          "title": "1981 Winner AFI Award",
+          "for": "Best Actor in a Lead Role",
+          "description": "Gallipoli"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTAwYzQ3ZGMtMWNiNi00ZjY1LTkzNmYtN2I5M2IwN2FjYzIwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1979 Winner AFI Award",
+          "for": "Best Actor in a Lead Role",
+          "description": "Tim"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Kids' Choice Awards, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNDgxNjZlZDYtZGJmZC00Mjg0LWEwYzctYWQ0MWFjNTM3ZmM4XkEyXkFqcGdeQXVyNTM5NzI0NDY@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2001 Nominee Blimp Award",
+          "for": "Favorite Voice from an Animated Movie",
+          "description": "Chicken Run"
+        }
+      ]
+    },
+    {
+      "eventTitle": "MTV Movie + TV Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNjUxYzliZjUtZTcyZS00NjQ2LTkxZWMtMzg5OWUxZGZkODFjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_Ratio0.6757_AL_.jpg",
+          "title": "2001 Nominee MTV Movie Award",
+          "for": "Best Male Performance",
+          "description": "The Patriot"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYmU2YTYwYmUtMTYzOC00YzJmLTk1NDktMzU4YzA3Njc1ZmY0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1999 Nominee MTV Movie Award",
+          "for": "Best Action Sequence",
+          "description": "Lethal Weapon 4 (For the Gibson/Glover car chase on freeway and through building.)"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Nominee MTV Movie Award",
+          "for": "Best Male Performance",
+          "description": "Braveheart"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "1996 Nominee MTV Movie Award",
+          "for": "Most Desirable Male",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Nominee MTV Movie Award",
+          "for": "Most Desirable Male",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Blockbuster Entertainment Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNjUxYzliZjUtZTcyZS00NjQ2LTkxZWMtMzg5OWUxZGZkODFjXkEyXkFqcGdeQXVyMTUzMDUzNTI3._V1_Ratio0.6757_AL_.jpg",
+          "title": "2001 Winner Blockbuster Entertainment Award",
+          "for": "Favorite Actor - Drama",
+          "description": "The Patriot"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BZjUyZWE5YmMtNDA2ZC00NzFlLTg0MzktOTgzYjA2ZWE3NmIwXkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.7027_AL_.jpg",
+          "title": "2001 Nominee Blockbuster Entertainment Award",
+          "for": "Favorite Actor - Comedy/Romance",
+          "description": "What Women Want"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BN2YxYTUyMTItYmU4ZS00OTIzLWIwMWQtMDY3NzRiMmIyMWMxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_Ratio0.6757_AL_.jpg",
+          "title": "2000 Nominee Blockbuster Entertainment Award",
+          "for": "Favorite Actor - Action",
+          "description": "Payback"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BYmU2YTYwYmUtMTYzOC00YzJmLTk1NDktMzU4YzA3Njc1ZmY0XkEyXkFqcGdeQXVyNDk3NzU2MTQ@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1999 Nominee Blockbuster Entertainment Award",
+          "for": "Favorite Duo - Action/Adventure",
+          "description": "Lethal Weapon 4"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMjQ1MTYxMzA4OF5BMl5BanBnXkFtZTgwNjg2NTM1MTI@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1998 Winner Blockbuster Entertainment Award",
+          "for": "Favorite Actor - Suspense",
+          "description": "Conspiracy Theory"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Hasty Pudding Theatricals, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "1997 Winner Man of the Year",
+          "for": "",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "ShoWest Convention, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "1996 Winner ShoWest Award",
+          "for": "Director of the Year",
+          "description": ""
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BNTUzOTMwNTM0OV5BMl5BanBnXkFtZTcwNDQwMTUxMw@@._V1_Ratio1.0000_AL_.jpg",
+          "title": "1993 Winner ShoWest Award",
+          "for": "Male Star of the Year",
+          "description": ""
+        }
+      ]
+    },
+    {
+      "eventTitle": "Directors Guild of America, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1996 Nominee DGA Award",
+          "for": "Outstanding Directorial Achievement in Motion Pictures",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Awards Circuit Community Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BZTc0ZjNkYTktMmJmOS00OTJlLTg1NWUtMzQ5ZGMxM2NhY2M0L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7568_AL_.jpg",
+          "title": "1996 Nominee ACCA",
+          "for": "Best Cast Ensemble",
+          "description": "Ransom"
+        },
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1995 Nominee ACCA",
+          "for": "Best Director",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "National Board of Review, USA",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1995 Winner Special Achievement Award",
+          "for": "",
+          "description": "Braveheart (For special achivement in filmmaking)"
+        }
+      ]
+    },
+    {
+      "eventTitle": "Jupiter Award",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMzkzMmU0YTYtOWM3My00YzBmLWI0YzctOGYyNTkwMWE5MTJkXkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1995 Winner Jupiter Award",
+          "for": "Best International Director",
+          "description": "Braveheart"
+        }
+      ]
+    },
+    {
+      "eventTitle": "CableACE Awards",
+      "nameAwardEventDetails": [
+        {
+          "image": "https://m.media-amazon.com/images/M/MV5BMmZlY2ExZmYtNDBiMS00OTgwLWIxODMtYjkzNWMwNmNjNzdmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_Ratio0.6757_AL_.jpg",
+          "title": "1993 Nominee CableACE",
+          "for": "Children's Educational or Informational Special or Series",
+          "description": "Mel Gibson Goes Back to School"
+        }
+      ]
+    }
+  ],
+  "nameAwardsHtml": "<div class=\"awards\">\r\n    <h5>44 wins & 43 nominations</h5>\r\n    <h3>Academy Awards, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Oscar</b>\r\n                    <br />\r\n                    Best Achievement in Directing\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Winner Oscar</b>\r\n                    <br />\r\n                    Best Picture\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Winner Oscar</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>BAFTA Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2007 Nominee BAFTA Film Award</b>\r\n                    <br />\r\n                    Best Film not in the English Language\r\n                    <br />\r\n                    Apocalypto\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Nominee David Lean Award for Direction</b>\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Razzie Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2022 Nominee Razzie Award</b>\r\n                    <br />\r\n                    Worst Supporting Actor\r\n                    <br />\r\n                    Dangerous\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2018 Winner Razzie Award</b>\r\n                    <br />\r\n                    Worst Supporting Actor\r\n                    <br />\r\n                    Daddy's Home 2\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Winner Redeemer Award</b>\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2015 Nominee Razzie Award</b>\r\n                    <br />\r\n                    Worst Supporting Actor\r\n                    <br />\r\n                    The Expendables 3\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Academy of Science Fiction, Fantasy & Horror Films, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2019 Nominee Saturn Award</b>\r\n                    <br />\r\n                    Best Actor\r\n                    <br />\r\n                    Dragged Across Concrete\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2007 Nominee Saturn Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Apocalypto\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1983 Nominee Saturn Award</b>\r\n                    <br />\r\n                    Best Actor\r\n                    <br />\r\n                    The Road Warrior\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Satellite Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Satellite Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2005 Winner Golden Satellite Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    The Passion of the Christ\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Golden Globes, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee Golden Globe</b>\r\n                    <br />\r\n                    Best Director - Motion Picture\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2001 Nominee Golden Globe</b>\r\n                    <br />\r\n                    Best Performance by an Actor in a Motion Picture - Comedy or Musical\r\n                    <br />\r\n                    What Women Want\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1997 Nominee Golden Globe</b>\r\n                    <br />\r\n                    Best Performance by an Actor in a Motion Picture - Drama\r\n                    <br />\r\n                    Ransom\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Winner Golden Globe</b>\r\n                    <br />\r\n                    Best Director - Motion Picture\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>AACTA International Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Winner AACTA International Award</b>\r\n                    <br />\r\n                    Best Direction\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Cinema Writers Circle Awards, Spain</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Winner CEC Award</b>\r\n                    <br />\r\n                    Best Foreign Film (Mejor Película Extranjera)\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Winner CEC Award</b>\r\n                    <br />\r\n                    Best Foreign Film (Mejor Película Extranjera)\r\n                    <br />\r\n                    Braveheart (USA. Tied with Ed Wood (1994).)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Australian Film Critics Association Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee AFCA Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Film Critics Circle of Australia Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Nominee FCCA Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Christopher Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2017 Winner Christopher Award</b>\r\n                    <br />\r\n                    Feature Films\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Hollywood Film Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Hollywood Film Award</b>\r\n                    <br />\r\n                    Director of the Year\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2004 Winner Hollywood Film Award</b>\r\n                    <br />\r\n                    Producer of the Year\r\n                    <br />\r\n                    The Passion of the Christ\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Critics Choice Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Critics Choice Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Winner Critics Choice Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Phoenix Film Critics Society Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee PFCS Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>North Texas Film Critics Association, US</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee NTFCA Award</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Hacksaw Ridge (3rd place)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Australian Academy of Cinema and Television Arts (AACTA) Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner AACTA Award</b>\r\n                    <br />\r\n                    Best Direction\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Capri, Hollywood</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Capri Director Award</b>\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2004 Winner Capri Movie of the Year Award</b>\r\n                    <br />\r\n                    The Passion of the Christ (Tied with The Keys to the House (2004).)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Golden Schmoes Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Nominee Golden Schmoes</b>\r\n                    <br />\r\n                    Best Director of the Year\r\n                    <br />\r\n                    Hacksaw Ridge\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2002 Nominee Golden Schmoes</b>\r\n                    <br />\r\n                    Best Actor of the Year\r\n                    <br />\r\n                    Signs\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Huading Award</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2016 Winner Huading Award</b>\r\n                    <br />\r\n                    Grand Jury Prize\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Karlovy Vary International Film Festival</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2014 Winner Special Prize for Outstanding Contribution to World Cinema</b>\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>AARP Movies for Grownups Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2012 Nominee Movies for Grownups Award</b>\r\n                    <br />\r\n                    Best Grownup Love Story\r\n                    <br />\r\n                    The Beaver\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2012 Nominee Movies for Grownups Award</b>\r\n                    <br />\r\n                    Best Actor\r\n                    <br />\r\n                    The Beaver\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>CinEuphoria Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2012 Nominee CinEuphoria</b>\r\n                    <br />\r\n                    Best Actor - International Competition\r\n                    <br />\r\n                    The Beaver\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Alliance of Women Film Journalists</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2011 Nominee EDA Special Mention Award</b>\r\n                    <br />\r\n                    Hall of Shame\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2011 Winner EDA Female Focus Award</b>\r\n                    <br />\r\n                    Sexist Pig Award\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2006 Winner EDA Special Mention Award</b>\r\n                    <br />\r\n                    Hall of Shame\r\n                    <br />\r\n                     (In recognition of the sexism he displayed when, according to police reports, he called a female officer 'sugar tits,' during his more famously anti-Semitic rant. We wish to assure Mr. Gibson that we heard the full scope of his rage that evening- not just the Jewish part.)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Irish Film and Television Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2008 Winner Outstanding Contribution to World Cinema</b>\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Golden Eagle Awards, Russia</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2008 Nominee Golden Eagle</b>\r\n                    <br />\r\n                    Best Foreign Film\r\n                    <br />\r\n                    Apocalypto\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2005 Winner Golden Eagle</b>\r\n                    <br />\r\n                    Best Foreign Film\r\n                    <br />\r\n                    The Passion of the Christ\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>International Online Cinema Awards (INOCA)</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2007 Nominee INOCA</b>\r\n                    <br />\r\n                    Best Non-English Language Film\r\n                    <br />\r\n                    Apocalypto (United States)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Italian Online Movie Awards (IOMA)</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2005 Nominee IOMA</b>\r\n                    <br />\r\n                    Best Adapted Screenplay (Miglior sceneggiatura non originale)\r\n                    <br />\r\n                    The Passion of the Christ\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Yoga Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2005 Winner Yoga Award</b>\r\n                    <br />\r\n                    Worst Foreign Film\r\n                    <br />\r\n                    The Passion of the Christ\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>People's Choice Awards, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2004 Winner People's Choice Award</b>\r\n                    <br />\r\n                    Favorite Motion Picture Actor\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2003 Winner People's Choice Award</b>\r\n                    <br />\r\n                    Favorite Motion Picture Actor\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2001 Winner People's Choice Award</b>\r\n                    <br />\r\n                    Favorite Motion Picture Actor\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2001 Winner People's Choice Award</b>\r\n                    <br />\r\n                    Favorite Motion Picture Star in a Drama\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1997 Winner People's Choice Award</b>\r\n                    <br />\r\n                    Favorite Motion Picture Actor\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Golden Knight Film Festival</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2004 Winner Grand Prix</b>\r\n                    <br />\r\n                    The Passion of the Christ\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Ischia Film Festival</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2004 Winner Foreign Award</b>\r\n                    <br />\r\n                    Best Feature Film\r\n                    <br />\r\n                    The Passion of the Christ\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Fangoria Chainsaw Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2003 Nominee Chainsaw Award</b>\r\n                    <br />\r\n                    Best Actor\r\n                    <br />\r\n                    Signs\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Australian Film Institute</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2002 Winner Global Achievement Award</b>\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1983 Nominee AFI Award</b>\r\n                    <br />\r\n                    Best Actor in a Lead Role\r\n                    <br />\r\n                    The Year of Living Dangerously\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1981 Winner AFI Award</b>\r\n                    <br />\r\n                    Best Actor in a Lead Role\r\n                    <br />\r\n                    Gallipoli\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1979 Winner AFI Award</b>\r\n                    <br />\r\n                    Best Actor in a Lead Role\r\n                    <br />\r\n                    Tim\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Kids' Choice Awards, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2001 Nominee Blimp Award</b>\r\n                    <br />\r\n                    Favorite Voice from an Animated Movie\r\n                    <br />\r\n                    Chicken Run\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>MTV Movie + TV Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2001 Nominee MTV Movie Award</b>\r\n                    <br />\r\n                    Best Male Performance\r\n                    <br />\r\n                    The Patriot\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1999 Nominee MTV Movie Award</b>\r\n                    <br />\r\n                    Best Action Sequence\r\n                    <br />\r\n                    Lethal Weapon 4 (For the Gibson/Glover car chase on freeway and through building.)\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Nominee MTV Movie Award</b>\r\n                    <br />\r\n                    Best Male Performance\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Nominee MTV Movie Award</b>\r\n                    <br />\r\n                    Most Desirable Male\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Nominee MTV Movie Award</b>\r\n                    <br />\r\n                    Most Desirable Male\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Blockbuster Entertainment Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>2001 Winner Blockbuster Entertainment Award</b>\r\n                    <br />\r\n                    Favorite Actor - Drama\r\n                    <br />\r\n                    The Patriot\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2001 Nominee Blockbuster Entertainment Award</b>\r\n                    <br />\r\n                    Favorite Actor - Comedy/Romance\r\n                    <br />\r\n                    What Women Want\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>2000 Nominee Blockbuster Entertainment Award</b>\r\n                    <br />\r\n                    Favorite Actor - Action\r\n                    <br />\r\n                    Payback\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1999 Nominee Blockbuster Entertainment Award</b>\r\n                    <br />\r\n                    Favorite Duo - Action/Adventure\r\n                    <br />\r\n                    Lethal Weapon 4\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1998 Winner Blockbuster Entertainment Award</b>\r\n                    <br />\r\n                    Favorite Actor - Suspense\r\n                    <br />\r\n                    Conspiracy Theory\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Hasty Pudding Theatricals, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1997 Winner Man of the Year</b>\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>ShoWest Convention, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Winner ShoWest Award</b>\r\n                    <br />\r\n                    Director of the Year\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1993 Winner ShoWest Award</b>\r\n                    <br />\r\n                    Male Star of the Year\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Directors Guild of America, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Nominee DGA Award</b>\r\n                    <br />\r\n                    Outstanding Directorial Achievement in Motion Pictures\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Awards Circuit Community Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1996 Nominee ACCA</b>\r\n                    <br />\r\n                    Best Cast Ensemble\r\n                    <br />\r\n                    Ransom\r\n                </td>\r\n            </tr>\r\n            <tr>\r\n                <td>\r\n                    <b>1995 Nominee ACCA</b>\r\n                    <br />\r\n                    Best Director\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>National Board of Review, USA</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1995 Winner Special Achievement Award</b>\r\n                    <br />\r\n                    Braveheart (For special achivement in filmmaking)\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>Jupiter Award</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1995 Winner Jupiter Award</b>\r\n                    <br />\r\n                    Best International Director\r\n                    <br />\r\n                    Braveheart\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n    <h3>CableACE Awards</h3>\r\n    <table>\r\n        <tbody>\r\n            <tr>\r\n                <td>\r\n                    <b>1993 Nominee CableACE</b>\r\n                    <br />\r\n                    Children's Educational or Informational Special or Series\r\n                    <br />\r\n                    Mel Gibson Goes Back to School\r\n                </td>\r\n            </tr>\r\n        </tbody>\r\n    </table>\r\n</div>\r\n",
+  "errorMessage": ""
+}
