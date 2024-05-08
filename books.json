@@ -1,0 +1,295 @@
+{
+"books":[
+	 {
+            "id": "1515",
+            "title": "Introduction to Python for Computational Science and Engineering",
+            "subtitle": "A beginner&#039;s guide",
+            "authors": "Hans Fangohr",
+            "image": "https://www.dbooks.org/img/books/1515s.jpg",
+            "url": "https://www.dbooks.org/introduction-to-python-for-computational-science-and-engineering-1515/"
+        },
+	 {
+            "id": "1530051126",
+            "title": "Python for Everybody",
+            "subtitle": "Exploring Data Using Python 3",
+            "authors": "Dr. Charles Severance",
+            "image": "https://www.dbooks.org/img/books/1530051126s.jpg",
+            "url": "https://www.dbooks.org/python-for-everybody-1530051126/"
+        },
+ {
+            "id": "3030539148",
+            "title": "Digital Entrepreneurship",
+            "subtitle": "Impact on Business and Society",
+            "authors": "Mariusz Soltanifar, Mathew Hughes, Lutz Göcke",
+            "image": "https://www.dbooks.org/img/books/3030539148s.jpg",
+            "url": "https://www.dbooks.org/digital-entrepreneurship-3030539148/"
+        },
+	{
+            "id": "1491939362",
+            "title": "Think Python",
+            "subtitle": "How to Think Like a Computer Scientist",
+            "authors": "Allen Downey",
+            "image": "https://www.dbooks.org/img/books/1491939362s.jpg",
+            "url": "https://www.dbooks.org/think-python-1491939362/"
+        },
+	 {
+            "id": "3030442489",
+            "title": "Enhancing Future Skills and Entrepreneurship",
+            "subtitle": "3rd Indo-German Conference on Sustainability in Engineering",
+            "authors": "Kuldip Singh Sangwan, Christoph Herrmann",
+            "image": "https://www.dbooks.org/img/books/3030442489s.jpg",
+            "url": "https://www.dbooks.org/enhancing-future-skills-and-entrepreneurship-3030442489/"
+        },
+	{
+            "id": "1722834927",
+            "title": "Learn Programming",
+            "subtitle": "Your Guided Tour Through the Programming Jungle",
+            "authors": "Antti Salonen",
+            "image": "https://www.dbooks.org/img/books/1722834927s.jpg",
+            "url": "https://www.dbooks.org/learn-programming-1722834927/"
+        },
+	{
+            "id": "0971677506",
+            "title": "How to Think Like a Computer Scientist",
+            "subtitle": "Learning with Python",
+            "authors": "Allen Downey, Jeffrey Elkner, Chris Meyers",
+            "image": "https://www.dbooks.org/img/books/0971677506s.jpg",
+            "url": "https://www.dbooks.org/how-to-think-like-a-computer-scientist-0971677506/"
+        },
+        {
+	    "id": "5606038334",
+            "title": "Learning Vim",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https://www.dbooks.org/img/books/5606038334s.jpg",
+            "url": "https://www.dbooks.org/learning-vim-5606038334/"
+        },
+	 {
+            "id": "1491911867",
+            "title": "What Is Data Science?",
+            "subtitle": "The future belongs to the companies  and people that turn data into products",
+            "authors": "Mike Loukides",
+            "image": "https://www.dbooks.org/img/books/1491911867s.jpg",
+            "url": "https://www.dbooks.org/what-is-data-science-1491911867/"
+        },
+	{
+            "id": "1492040207",
+            "title": "Think Complexity",
+            "subtitle": "Complexity Science and Computational Modeling",
+            "authors": "Allen Downey",
+            "image": "https://www.dbooks.org/img/books/1492040207s.jpg",
+            "url": "https://www.dbooks.org/think-complexity-1492040207/"
+        },
+	 {
+            "id": "3319911554",
+            "title": "Analysis for Computer Scientists",
+            "subtitle": "Foundations, Methods, and Algorithms",
+            "authors": "Michael Oberguggenberger, Alexander Ostermann",
+            "image": "https://www.dbooks.org/img/books/3319911554s.jpg",
+            "url": "https://www.dbooks.org/analysis-for-computer-scientists-3319911554/"
+        },
+	 {
+            "id": "1531",
+            "title": "MongoDB Notes for Professionals",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https://www.dbooks.org/img/books/1531s.jpg",
+            "url": "https://www.dbooks.org/mongodb-notes-for-professionals-1531/"
+        },
+	{
+            "id": "1588",
+            "title": "Docker for Developers",
+            "subtitle": "",
+            "authors": "Rafael Gomes",
+            "image": "https://www.dbooks.org/img/books/1588s.jpg",
+            "url": "https://www.dbooks.org/docker-for-developers-1588/"
+        },
+	 {
+            "id": "5605980453",
+            "title": "Learning MongoDB",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https://www.dbooks.org/img/books/5605980453s.jpg",
+            "url": "https://www.dbooks.org/learning-mongodb-5605980453/"
+        },
+	 {
+            "id": "5606033328",
+            "title": "Learning Regular Expressions",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https://www.dbooks.org/img/books/5606033328s.jpg",
+            "url": "https://www.dbooks.org/learning-regular-expressions-5606033328/"
+        },
+        {
+	    "id": "5614772998",
+            "title": "Problem Solving with Algorithms and Data Structures",
+            "subtitle": "",
+            "authors": "Brad Miller, David Ranum",
+            "image": "https://www.dbooks.org/img/books/5614772998s.jpg",
+            "url": "https://www.dbooks.org/problem-solving-with-algorithms-and-data-structures-5614772998/"
+        },{
+	    "id": "1509300597",
+            "title": "Azure Web Apps for Developers",
+            "subtitle": "Microsoft Azure Essentials",
+            "authors": "Rick Rainey",
+            "image": "https://www.dbooks.org/img/books/1509300597s.jpg",
+            "url": "https://www.dbooks.org/azure-web-apps-for-developers-1509300597/"
+        },
+	 {
+            "id": "1202",
+            "title": "Introduction to Financial Accounting",
+            "subtitle": "",
+            "authors": "Henry Dauderis, David Annand",
+            "image": "https://www.dbooks.org/img/books/1202s.jpg",
+            "url": "https://www.dbooks.org/introduction-to-financial-accounting-1202/"
+        },
+	 {
+            "id": "3319755021",
+            "title": "Introduction to Programming with Fortran",
+            "subtitle": "",
+            "authors": "Ian Chivers, Jane Sleightholme",
+            "image": "https://www.dbooks.org/img/books/3319755021s.jpg",
+            "url": "https://www.dbooks.org/introduction-to-programming-with-fortran-3319755021/"
+        },
+	{
+            "id": "5592475697",
+            "title": "Introduction to Data Science",
+            "subtitle": "Data Analysis and Prediction Algorithms with R",
+            "authors": "Rafael A Irizarry",
+            "image": "https://www.dbooks.org/img/books/5592475697s.jpg",
+            "url": "https://www.dbooks.org/introduction-to-data-science-5592475697/"
+        },
+ 	{
+            "id": "1946135100",
+            "title": "Financial Accounting",
+            "subtitle": "",
+            "authors": "David Spiceland, Wayne Thomas, Don Herrmann",
+            "image": "https://www.dbooks.org/img/books/1946135100s.jpg",
+            "url": "https://www.dbooks.org/financial-accounting-1946135100/"
+        },
+	{
+            "id": "1485",
+            "title": "Intermediate Financial Accounting Volume 1",
+            "subtitle": "",
+            "authors": "Glenn Arnold, Suzanne Kyle",
+            "image": "https://www.dbooks.org/img/books/1485s.jpg",
+            "url": "https://www.dbooks.org/intermediate-financial-accounting-volume-1-1485/"
+        },
+        {
+	     "id": "1949373908",
+            "title": "Fundamentals of Business",
+            "subtitle": "",
+            "authors": "Stephen J. Skripak",
+            "image": "https://www.dbooks.org/img/books/1949373908s.jpg",
+            "url": "https://www.dbooks.org/fundamentals-of-business-1949373908/"
+        },
+	 {
+            "id": "171147052X",
+            "title": "Principles of Finance",
+            "subtitle": "",
+            "authors": "Alan Adams, Curtis Bacon, Samantha Cooper, Michael Griffin, Kevin Higgins, Larry Musolino",
+            "image": "https://www.dbooks.org/img/books/171147052Xs.jpg",
+            "url": "https://www.dbooks.org/principles-of-finance-171147052x/"
+        },
+	 {
+            "id": "1946135097",
+            "title": "Exploring Business",
+            "subtitle": "",
+            "authors": "UMN",
+            "image": "https://www.dbooks.org/img/books/1946135097s.jpg",
+            "url": "https://www.dbooks.org/exploring-business-1946135097/"
+        },
+	{
+            "id": "5605519200",
+            "title": "The Unix Workbench",
+            "subtitle": "",
+            "authors": "Sean Kross",
+            "image": "https://www.dbooks.org/img/books/5605519200s.jpg",
+            "url": "https://www.dbooks.org/the-unix-workbench-5605519200/"
+        },
+	{
+            "id": "1593279523",
+            "title": "The Linux Command Line",
+            "subtitle": "A Complete Introduction",
+            "authors": "William Shotts",
+            "image": "https://www.dbooks.org/img/books/1593279523s.jpg",
+            "url": "https://www.dbooks.org/the-linux-command-line-1593279523/"
+        },
+	 {
+            "id": "1722834927",
+            "title": "Learn Programming",
+            "subtitle": "Your Guided Tour Through the Programming Jungle",
+            "authors": "Antti Salonen",
+            "image": "https://www.dbooks.org/img/books/1722834927s.jpg",
+            "url": "https://www.dbooks.org/learn-programming-1722834927/"
+        },
+	{
+            "id": "5613994259",
+            "title": "The Linux Commands Handbook",
+            "subtitle": "",
+            "authors": "Flavio Copes",
+            "image": "https://www.dbooks.org/img/books/5613994259s.jpg",
+            "url": "https://www.dbooks.org/the-linux-commands-handbook-5613994259/"
+        },
+        {
+            "id": "5635524632",
+            "title": "Bash Guide",
+            "subtitle": "",
+            "authors": "Maarten Billemont",
+            "image": "https://www.dbooks.org/img/books/5635524632s.jpg",
+            "url": "https://www.dbooks.org/bash-guide-5635524632/"
+        },
+	 {
+            "id": "1201",
+            "title": "Fundamentals of C++ Programming",
+            "subtitle": "",
+            "authors": "Richard L. Halterman",
+            "image": "https://www.dbooks.org/img/books/1201s.jpg",
+            "url": "https://www.dbooks.org/fundamentals-of-c-programming-1201/"
+        },
+	 {
+            "id": "5591650568",
+            "title": "PHP Notes for Professionals",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https://www.dbooks.org/img/books/5591650568s.jpg",
+            "url": "https://www.dbooks.org/php-notes-for-professionals-5591650568/"
+        },
+	 {
+            "id": "5606040861",
+            "title": "Learning HTML5 Canvas",
+            "subtitle": "",
+            "authors": "Stack Overflow Community",
+            "image": "https://www.dbooks.org/img/books/5606040861s.jpg",
+            "url": "https://www.dbooks.org/learning-html5-canvas-5606040861/"
+        },
+	{
+            "id": "1735831719",
+            "title": "How To Build a Website With CSS and HTML",
+            "subtitle": "",
+            "authors": "Erin Glass",
+            "image": "https://www.dbooks.org/img/books/1735831719s.jpg",
+            "url": "https://www.dbooks.org/how-to-build-a-website-with-css-and-html-1735831719/"
+        },
+	{
+            "id": "5629146344",
+            "title": "How to Code in HTML5 and CSS3",
+            "subtitle": "",
+            "authors": "Damian Wielgosik",
+            "image": "https://www.dbooks.org/img/books/5629146344s.jpg",
+            "url": "https://www.dbooks.org/how-to-code-in-html5-and-css3-5629146344/"
+        },
+        {
+	     "id": "3662595869",
+            "title": "The Entrepreneurial Society",
+            "subtitle": "A Reform Strategy for the European Union",
+            "authors": "Niklas Elert, Magnus Henrekson, Mark Sanders",
+            "image": "https://www.dbooks.org/img/books/3662595869s.jpg",
+            "url": "https://www.dbooks.org/the-entrepreneurial-society-3662595869/"
+        }
+	
+       
+
+]
+
+}
